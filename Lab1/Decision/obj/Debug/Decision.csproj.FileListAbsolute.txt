@@ -1,0 +1,10 @@
+F:\C#\Decision\bin\Debug\Decision.exe.config
+F:\C#\Decision\bin\Debug\Decision.exe
+F:\C#\Decision\bin\Debug\Decision.pdb
+F:\C#\Decision\obj\Debug\Decision.csprojAssemblyReference.cache
+F:\C#\Decision\obj\Debug\Decision.MainForm.resources
+F:\C#\Decision\obj\Debug\Decision.Properties.Resources.resources
+F:\C#\Decision\obj\Debug\Decision.csproj.GenerateResource.cache
+F:\C#\Decision\obj\Debug\Decision.csproj.CoreCompileInputs.cache
+F:\C#\Decision\obj\Debug\Decision.exe
+F:\C#\Decision\obj\Debug\Decision.pdb
