@@ -1,0 +1,10 @@
+bin/
+obj/
+Properties/
+.vs/
+Program.cs
+MainForm.resx
+MainForm.Designer.cs
+Decision.sln
+Decision.csproj
+App.config
